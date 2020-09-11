@@ -1,5 +1,3 @@
-import random
-
 class HumanTeam:
     def __init__(self, name):
         self.name = name
